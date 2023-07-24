@@ -26,20 +26,10 @@ The Temperature Converter Website is a simple and user-friendly web application 
 
 4. **View Converted Temperatures:** As you enter the temperature, the website will automatically display the converted values in the two remaining scales.
 
-5. **Clear and Convert Again:** To perform another conversion, you can easily clear the input field and start over with a new temperature value.
-
-## Installation
-
-The Temperature Converter Website is a client-side application and does not require any installation or setup. Users can access it directly from their web browsers by visiting the provided URL.
-
 ## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Support and Contribution
 
-If you encounter any issues or have suggestions for improvement, please feel free to report them in the "Issues" section of this repository. Contributions and feedback from the community are highly appreciated and will help enhance the usability and features of the Temperature Converter Website.
-
-Enjoy converting temperatures effortlessly with the Temperature Converter Website!
